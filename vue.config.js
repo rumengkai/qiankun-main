@@ -11,6 +11,7 @@ module.exports = {
       "Access-Control-Allow-Origin": "*"
     }
   },
+  publicPath: ".",
   configureWebpack: {
     resolve: {
       alias: {
